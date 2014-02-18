@@ -1,4 +1,2 @@
-overload
-========
-
+# Overload
 Simple JavaScript Method Overloading
