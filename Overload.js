@@ -134,3 +134,5 @@ var Overload = (function () {
 
 	return Overload;
 })();
+
+module.exports = Overload;

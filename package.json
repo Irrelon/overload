@@ -1,0 +1,38 @@
+{
+	"author": "Rob Evans - Irrelon Software Limited",
+	"name": "irrelon-overload",
+	"description": "Simple JavaScript type-based method overloading.",
+	"version": "1.0.0",
+	"keywords": [
+		"javascript",
+		"browser",
+		"node",
+		"client-side",
+		"server-side",
+		"overloading",
+		"method",
+		"function",
+		"definition"
+	],
+	"dependencies": {
+
+	},
+	"engines": {
+		"node": "*"
+	},
+	"scripts": {
+
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/irrelon/overload.git"
+	},
+	"devDependencies": {
+
+	},
+	"main": "./Overload.js",
+	"browserify": "./Overload.js",
+	"bugs": {
+		"url": "http://github.com/irrelon/overload/issues"
+	}
+}
