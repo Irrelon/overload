@@ -2,7 +2,7 @@
 	"author": "Rob Evans - Irrelon Software Limited",
 	"name": "irrelon-overload",
 	"description": "Simple JavaScript type-based method overloading.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"javascript",
 		"browser",
