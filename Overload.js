@@ -98,7 +98,7 @@ var Overload = function (def) {
 				}
 			}
 
-			throw('ForerunnerDB.Overload "' + this.name() + '": Overloaded method does not have a matching signature for the passed arguments: ' + JSON.stringify(arr));
+			throw('Irrelon Overload: Overloaded method does not have a matching signature for the passed arguments: ' + JSON.stringify(arr));
 		};
 	}
 
